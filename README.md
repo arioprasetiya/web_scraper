@@ -1,4 +1,4 @@
-# web_scrapper
+# web_scraper
 learn webscraping using Javascript with Axios, express, and Cheerio
 
 To run this:
